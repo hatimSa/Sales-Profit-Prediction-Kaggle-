@@ -29,9 +29,11 @@ This project focuses on analyzing sales and profitability data from a "Superstor
    cd Sales-Profit-Prediction-Kaggle-
    
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Run the script:
+   ```bash
    python etude_profit_superstore.py
 
 ## 📊 Expected Output
